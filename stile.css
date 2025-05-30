@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+.headerToscana{
+    background-color: #6ea642;
+    color: #273747;
+    padding: 20px;
+    text-align: center;
+}
+.headerToscana p{
+    font-size: 20px;
+    color: #414141;
+}
+header {
+    background-color: #4e2b85;
+    color: #ac9e70;
+    padding: 20px;
+    text-align: center;
+}
+.headerArezzo{
+    background-color: #653033;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+.headerSiena{
+    background-color: #1D2D44;
+    color: #ffc800;
+    padding: 20px;
+    text-align: center;
+}
+.headerPisa{
+    background-color: #0362bc;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+.headerLivorno{
+    background-color: #006666;
+    color: #E5C07B;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-family: Georgia, serif;
+    font-size: 2.5rem;
+}
+.footerToscana{
+    background-color: #6ea642;
+    color: #21303e;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+footer {
+    background-color: #4e2b85;
+    color: #ac9e70;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+.footerp{
+    font-family: "Geneva", serif;
+    font-size: 22px;
+}
+.footerArezzo{
+    background-color: #653033;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+.footerSiena{
+    background-color: #1D2D44;
+    color: #ffc800;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+.footerPisa{
+    background-color: #0362bc;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}.footerLivorno{
+    background-color: #006666;
+    color: #E5C07B;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+h2 {
+    font-family: "Garamond", serif;
+    font-size: 2rem;
+    color: #e63833;
+}
+.info {
+    width: 90%;
+    max-width: 1200px;
+    margin: 30px auto;
+}
+.sezioneSX{
+    overflow: hidden;
+    margin-top: 50px;
+}
+.immagineSX{
+    width: 40%;
+    float: right;
+}
+.testoSX{
+    width: 55%;
+    float: left;
+}
+.sezioneDX{
+    float: right;
+    text-align: right;
+    overflow: hidden;
+}
+.immagineDX{
+    width: 40%;
+    float: left;
+}
+.testoDX{
+    width: 55%;
+    float: right;
+}
